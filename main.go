@@ -8,4 +8,6 @@ func main() {
     Variables()
     Conditionals()
     Loops()
+    DataTypes()
+    Functions()
 }
