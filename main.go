@@ -10,4 +10,5 @@ func main() {
     Loops()
     DataTypes()
     Functions()
+    Arrays()
 }
