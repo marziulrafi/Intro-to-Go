@@ -13,4 +13,5 @@ func main() {
     Arrays()
     Slices()
     Scopes()
+    ScopeTypes()
 }
