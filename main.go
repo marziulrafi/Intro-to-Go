@@ -14,4 +14,5 @@ func main() {
     Slices()
     Scopes()
     ScopeTypes()
+    Pointers()
 }
