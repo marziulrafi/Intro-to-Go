@@ -15,4 +15,5 @@ func main() {
     Scopes()
     ScopeTypes()
     Pointers()
+    Structs()
 }
